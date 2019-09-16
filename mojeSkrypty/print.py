@@ -1,0 +1,1 @@
+print("jaka jest twoja nazwa?")
