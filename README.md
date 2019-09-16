@@ -1,2 +1,3 @@
 # mojeSkrypty
-# Repozytorium to zawiera moje dotyczczasowe skrypty napisane w języku Python
+# Repozytorium to zawiera moje skrypty napisane w języku Python.
+# This repository contains my scripts written in Python.
